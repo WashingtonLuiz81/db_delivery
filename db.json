@@ -1,7 +1,11 @@
-
 {
   "stores": {
     "thiagao-burguer": {
+      "config": {
+        "phone_number": "5512988276684",
+        "on_time_payment": true,
+        "message_to_update": false
+      },
       "menu": [
         {
           "title": "Burguer 150g - Especial",
